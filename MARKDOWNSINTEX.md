@@ -26,14 +26,14 @@ Lorem Ipsum <br> Lorem Ipsum
 3. Third
 4. Fourth
 
-*First
-    *Nested List 1
-    *Nested List 2
-        *Nested - Nested List 1
-        *Nested - Nested List 2
-*Second 
-*Third
-*Fourth
+* First
+    * Nested List 1
+    * Nested List 2
+        * Nested - Nested List 1
+        * Nested - Nested List 2
+* Second 
+* Third
+* Fourth
 
 **Text** - Bold <br>
 *Text* - Italic
