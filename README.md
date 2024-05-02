@@ -1,5 +1,5 @@
 # Project Title
-project Description
+Project Description
 
 ### Version
 1.0.0
